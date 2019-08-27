@@ -1,0 +1,21 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+
+
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.navOptions {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  justify-content: space-evenly;
+}
